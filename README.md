@@ -30,7 +30,7 @@ Users should be able to:
 
 - Used dependencies:
 
-- ![image](https://github.com/danielhincapievargas/my-product-site-backend/assets/126527883/2b8ad5cc-6aad-4088-a5a3-8fdf2e9a4cd9)
+![image](https://github.com/danielhincapievargas/my-product-site-backend/assets/126527883/2b8ad5cc-6aad-4088-a5a3-8fdf2e9a4cd9)
 
 
 ## Authors
