@@ -25,9 +25,7 @@ Users should be able to:
 
 ### Built with
 
-- React con Vite
-- CSS custom properties
-- Mobile-first workflow
+- Node.js
 - Express
 
 - Used dependencies:
@@ -42,4 +40,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-Thanks to Make It Real, every day we learn new things, such as working with React in this project.
+Thanks to Make It Real, every day we learn new things, such as working with express in this project.
