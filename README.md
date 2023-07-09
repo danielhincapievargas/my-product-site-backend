@@ -6,11 +6,8 @@ _Deployment of the backend in mode MVC (model-view-controller)_
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+  - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 
